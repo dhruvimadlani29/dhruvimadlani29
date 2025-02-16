@@ -54,7 +54,17 @@ When I'm not coding, I’m exploring new tech trends, solving puzzles, or curati
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60px" alt="Developer"/>
 </p>
 
-*Let's connect, collaborate, and innovate!* 🚀✨
+<h2 align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px" alt="Developer Animation"/> Let's connect, collaborate, and innovate! 🚀✨</h2>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coding Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Creative+Problem+Solver;Pixel-perfect+UI+Designer;Open+Source+Contributor;Lifelong+Learner" alt="Additional Typing Animation"/>
+</p>
 
 ---
 
