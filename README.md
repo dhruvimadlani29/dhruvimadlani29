@@ -46,7 +46,7 @@ const Dhruvi = {
 ---
 
 ### ⚡ Fun Fact
-When I'm not coding, I’m exploring new tech trends, solving puzzles, or curating playlists. Let's build the future together!
+I write code faster when my coffee is strong and Wi-Fi is stronger.
 
 ---
 
