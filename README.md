@@ -1,11 +1,11 @@
-# Hi, I'm Dhruvi Madlani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi, I'm Dhruvi Madlani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 ---
 
 ## 🚀 React.js Developer | 4 Years Experience | Open to Opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=React.js+Developer;Building+Seamless+Web+Apps;Open+to+Opportunities" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=React.js+Developer;Creative+Problem+Solver;Pixel-perfect+UI+Designer;Open+Source+Contributor;Building+Seamless+Web+Apps;Open+to+Exciting+Opportunities" alt="Typing Animation" />
 </p>
 
 Welcome to my GitHub! I'm an innovative **React.js Developer** specializing in crafting seamless, user-centric web applications with optimized performance.
@@ -50,21 +50,14 @@ When I'm not coding, I’m exploring new tech trends, solving puzzles, or curati
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60px" alt="Developer"/>
-</p>
-
-<h2 align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px" alt="Developer Animation"/> Let's connect, collaborate, and innovate! 🚀✨</h2>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coding Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Creative+Problem+Solver;Pixel-perfect+UI+Designer;Open+Source+Contributor;Lifelong+Learner" alt="Additional Typing Animation"/>
-</p>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Coding Animation"/>
+  Let's connect, collaborate, and innovate! 🚀✨
+</h2>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Developer Animation"/>
+</p>
 
