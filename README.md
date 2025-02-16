@@ -50,10 +50,7 @@ I write code faster when my coffee is strong and Wi-Fi is stronger.
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Coding Animation"/>
-  Let's connect, collaborate, and innovate! 🚀✨
-</h2>
+<h2 align="center">Let's connect, collaborate, and innovate! 🚀✨</h2>
 
 ---
 
