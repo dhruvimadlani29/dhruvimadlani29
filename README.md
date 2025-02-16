@@ -1,3 +1,5 @@
+<div style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
+
 # Hi, I'm Dhruvi Madlani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 ---
@@ -57,4 +59,6 @@ I write code faster when my coffee is strong and Wi-Fi is stronger.
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Developer Animation"/>
 </p>
+
+</div>
 
