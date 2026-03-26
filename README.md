@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 React.js Developer | 4 Years Experience | Open to Opportunities
+## 🚀Full-Stack Developer | React · Node.js · AWS | Open to Opportunities
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=React.js+Developer;Creative+Problem+Solver;Pixel-perfect+UI+Designer;Open+Source+Contributor;Building+Seamless+Web+Apps;Open+to+Exciting+Opportunities" alt="Typing Animation" />
