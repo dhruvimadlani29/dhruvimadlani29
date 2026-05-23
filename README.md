@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dhruvi Madlani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
 
-<h3 align="center">Full-Stack Developer · React · Next.js · Node.js · AWS · Open to Fall 2026 Co-op</h3>
+<h3 align="center">Software Developer &nbsp;·&nbsp; Full-Stack & Cloud &nbsp;·&nbsp; Ottawa, Canada &nbsp;·&nbsp; Open to Fall 2026 Co-op</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+4%2B+Years+of+Experience;React.js+%2B+Next.js+14+Specialist;Cloud-Native+with+AWS+%26+Docker;2nd+Place+Hackathon+Winner+%F0%9F%8F%86;Building+MediFeel+%E2%80%94+AI+Health+Platform;Open+to+Fall+2026+Co-op+Opportunities" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+4%2B+Years+Experience;Cloud-Native+%7C+AWS+Certified;AI+Integration+%7C+Claude+API+%7C+Firebase;2nd+Place+Hackathon+Winner+%F0%9F%8F%86;Dean%27s+Honour+List+%7C+4.0+GPA;Open+to+Fall+2026+Co-op+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -24,20 +24,12 @@
 
 ```js
 const Dhruvi = {
-  role: "Full-Stack Developer | Co-op Student @ Algonquin College (Ottawa)",
-  experience: "4+ years professional · B.Eng. Computer Engineering",
-  stack: ["React.js", "Next.js 14", "Node.js", "TypeScript", "AWS", "Docker"],
-  currentlyBuilding: "MediFeel — AI-powered health tracking platform (Claude API + Firebase)",
-  seeking: "Fall 2026 Co-op Placement (Sept–Dec 2026) · Ottawa & Remote",
-  achievements: [
-    "🥈 2nd Place — Hack the Barriers Hackathon (The Ada Sisterhood, Invest Ottawa)",
-    "🎓 Dean's Honour List | 4.0 GPA",
-    "☁️ AWS Certified Cloud Practitioner",
-    "🤖 Claude 101 Certified (Perfect Score)",
-    "💻 IBM Z Xplore Fundamentals Badge",
-    "🐙 GitHub Foundations Certified"
-  ],
-  motto: "Code smart, design with heart"
+  education:  "Web Dev & Internet Applications · Algonquin College (Level 4)",
+  background: "4+ yrs professional · B.Eng. Computer Engineering",
+  seeking:    "Fall 2026 Co-op Placement · Sept–Dec · Ottawa & Remote",
+  skills:     ["Full-Stack Development", "Cloud & DevOps", "UI/UX Design", "Agile/Scrum"],
+  currently:  "Building MediFeel — AI health platform powered by Claude API",
+  motto:      "Code smart, design with heart"
 };
 ```
 
@@ -45,53 +37,53 @@ const Dhruvi = {
 
 ## 🏆 Highlights
 
-- 🥈 **2nd Place — Hack the Barriers Hackathon** (Invest Ottawa) — Built **MediFeel**, an AI health tracking platform using React/Next.js, Firebase & the Claude API
-- 🎓 **Dean's Honour List** — 4.0 GPA, Algonquin College (Web Dev & Internet Applications, Level 4)
-- 🧠 **Class Representative** — Advocating for peers in the co-op program
-- 🎤 **Student Community Outreach Lead** — AWS Community Day Ottawa 2026 (Hackathon: Aug 21–22 @ Invest Ottawa)
-- 🌐 Published personal portfolio: [dhruvi-madlani.vercel.app](https://dhruvi-madlani.vercel.app)
+- 🥈 **2nd Place — Hack the Barriers Hackathon** (The Ada Sisterhood · Invest Ottawa) — Built an AI health platform in 24 hours
+- 🎓 **Dean's Honour List** — 4.0 GPA · Class Representative · Algonquin College
+- 🎤 **Student Community Outreach Lead** — AWS Community Day Ottawa 2026 (Hackathon Aug 21–22 @ Invest Ottawa)
+- 🌐 Published portfolio: [dhruvi-madlani.vercel.app](https://dhruvi-madlani.vercel.app)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,redux,figma" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,mongodb,mysql,git,github,vercel,azure,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,redux,figma,ps,ai" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,mongodb,mysql,git,github,vercel,linux,raspberry-pi" />
 </p>
 
-**Frontend:** React.js, Next.js 14, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux, HTML5, CSS3  
-**Backend:** Node.js, REST APIs, ASP.NET Web Forms  
-**Cloud & DevOps:** AWS (CCP certified), Docker, Firebase, CI/CD, WireGuard VPN  
+**Languages:** TypeScript, JavaScript (ES6+), SQL, Python, Java  
+**Frontend:** SSR & CSR frameworks, Tailwind CSS, Redux, HTML5, CSS3  
+**Backend:** REST APIs, Node.js, ASP.NET Web Forms  
+**Cloud & DevOps:** AWS (CCP Certified), Docker, Firebase, CI/CD pipelines, WireGuard VPN  
 **Databases:** MySQL, MongoDB, MariaDB  
-**Design:** Figma, Adobe Illustrator, Adobe Photoshop  
-**Other:** Git, GitHub Actions, Agile/Scrum, Vercel, Raspberry Pi / Linux
+**Design:** Figma (lo-fi → hi-fi wireframes, usability testing), Adobe Illustrator, Adobe Photoshop  
+**Tools:** Git, GitHub Actions, Vercel, Raspberry Pi / Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 [MediFeel](https://github.com/dhruvimadlani29/medifeel)
-> AI-powered health tracking platform · **2nd Place, Hack the Barriers Hackathon**
+### 🩺 [MediFeel](https://github.com/dhruvimadlani29/medifeel) — *🥈 2nd Place, Hack the Barriers*
+> AI-powered health tracking platform · Built in 24 hours
 
-Built in 24 hours with React/Next.js, Firebase, and the **Claude API**. Tracks symptoms, generates AI health insights, and delivers a responsive, accessible UX.  
-`Next.js` `Firebase` `Claude API` `React` `Hackathon`
+Tracks symptoms and generates personalised health insights using the **Claude API** and **Firebase**, with a fully responsive and accessible UI.  
+`AI / Claude API` `Firebase` `Cloud` `Hackathon`
 
 ---
 
 ### 📋 [Job Application Tracker](https://github.com/dhruvimadlani29/job-application-tracker)
-> Smart job tracking with AI-generated cover letters & PDF export
+> Smart full-stack tracker with AI-powered cover letter generation
 
-Full-stack tracker using React, AWS Cognito (auth), Groq API / Llama 3.3 70B (AI), jsPDF, EmailJS, and Vercel deployment.  
-`React` `AWS Cognito` `Groq API` `Tailwind` `jsPDF` `Vercel`
+Auth via **AWS Cognito**, AI via **Groq / Llama 3.3 70B**, with PDF export (jsPDF), email notifications (EmailJS), and Vercel deployment.  
+`AWS Cognito` `Groq API` `Full-Stack` `Cloud`
 
 ---
 
 ### 🌐 [Personal Portfolio](https://github.com/dhruvimadlani29/dev-portfolio)
-> Next.js 14 portfolio with glassmorphism design, dark/light mode & animated timelines
+> Production portfolio with glassmorphism design & dark/light mode
 
-Features IntersectionObserver navbar, Gmail pre-fill contact form, filterable project cards, devicon skill grids, and full responsive design.  
-`Next.js 14` `TypeScript` `Tailwind CSS` `Vercel` `Personal`
+Features animated timelines, filterable project cards, devicon skill grids, IntersectionObserver navbar, and a Gmail pre-fill contact form.  
+`TypeScript` `SSR` `Cloud Deployed` `UI/UX`
 
 ---
 
@@ -99,11 +91,10 @@ Features IntersectionObserver navbar, Gmail pre-fill contact form, filterable pr
 
 | Certification | Issued | Credential |
 |---|---|---|
-| 🎓 GitHub Foundations | Mar 2026 | [View](https://linkedin.com/learning/certificates/bb94be7425c01586055501cd48f990335aadcdf5e019878712391180690baa12) |
-| ⚛️ React Essential Training | Mar 2026 | [View](https://linkedin.com/learning/certificates/ca6ed3b8ef10fc7caa87ba70d6c573733135623e106fdcfddab75d3aeb9bf085) |
-| 🤖 Claude 101 (Perfect Score) | May 2026 | [View](https://verify.skilljar.com/c/q4jsyria4jbh) |
-| 🖥️ IBM Z Xplore Fundamentals | Apr 2026 | [View](https://credly.com/badges/5fcf409f-ee65-4f0a-a015-7fa10a75dd23) |
-| ☁️ AWS Certified Cloud Practitioner | Aug 2025 | [View](https://credly.com/badges/9265a08b-c9ec-4b17-b3ce-72f9f6b29271) |
+| 🐙 GitHub Foundations | Mar 2026 | [Verify](https://linkedin.com/learning/certificates/bb94be7425c01586055501cd48f990335aadcdf5e019878712391180690baa12) |
+| 🤖 Claude 101 — Perfect Score | May 2026 | [Verify](https://verify.skilljar.com/c/q4jsyria4jbh) |
+| 🖥️ IBM Z Xplore Fundamentals | Apr 2026 | [Verify](https://credly.com/badges/5fcf409f-ee65-4f0a-a015-7fa10a75dd23) |
+| ☁️ AWS Certified Cloud Practitioner | Aug 2025 | [Verify](https://credly.com/badges/9265a08b-c9ec-4b17-b3ce-72f9f6b29271) |
 
 ---
 
@@ -111,8 +102,7 @@ Features IntersectionObserver navbar, Gmail pre-fill contact form, filterable pr
 
 - **The Ada Sisterhood** — Women in tech network (Ottawa)
 - **IBM Z Club** — Squad 1: Events & Logistics
-- **AWS Community Day Ottawa 2026** — Student Community Outreach Lead  
-  🎟️ Hackathon: Aug 21–22 @ Invest Ottawa · Promo code: `DMDevOps@2026`
+- **AWS Community Day Ottawa 2026** — Student Community Outreach Lead · Hackathon Aug 21–22 @ Invest Ottawa
 - **Invest Ottawa AI Meetups** — Active participant & networker
 
 ---
@@ -124,25 +114,21 @@ Features IntersectionObserver navbar, Gmail pre-fill contact form, filterable pr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvimadlani29&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvimadlani29&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ## 🌟 Let's Connect
 
-- 📍 **Location:** Ottawa, ON, Canada 🇨🇦
-- 💼 **Open to:** Fall 2026 Co-op (Sept–Dec) · Full-time after graduation · Remote & On-site
-- 📩 **Email:** [dhruvimadlani2902@gmail.com](mailto:dhruvimadlani2902@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/dhruvi-madlani](https://www.linkedin.com/in/dhruvi-madlani/)
-- 🌐 **Portfolio:** [dhruvi-madlani.vercel.app](https://dhruvi-madlani.vercel.app)
+- 📍 **Ottawa, ON, Canada** 🇨🇦
+- 💼 **Open to:** Fall 2026 Co-op (Sept–Dec) · On-site Ottawa & Remote
+- 📩 [dhruvimadlani2902@gmail.com](mailto:dhruvimadlani2902@gmail.com)
+- 🔗 [linkedin.com/in/dhruvi-madlani](https://www.linkedin.com/in/dhruvi-madlani/)
+- 🌐 [dhruvi-madlani.vercel.app](https://dhruvi-madlani.vercel.app)
 
 ---
 
 ### ⚡ Fun Fact
 
-I write code faster when my coffee is strong and Wi-Fi is stronger — and I apparently also build award-winning AI apps in 24-hour hackathons. ☕🚀
+I write code faster when my coffee is strong and Wi-Fi is stronger — and apparently I also build award-winning AI apps in 24-hour hackathons. ☕🚀
 
 ---
 
